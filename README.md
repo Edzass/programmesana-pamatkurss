@@ -22,3 +22,5 @@ Autors: **Edgars Mukāns**
 2. Palaist lejupielādēto failu.
 ## Licence
 MIT licence sniedz iespēju lietotājam brīvi rīkoties ar programmatūras saturu, vienlaikus noņemot atbildību no izstrādātāja.
+
+.md fails nav parasts teksta dokuments, jo tajā ir ientegrētas dažādas funkcijas teksta formatēšanai - attēlošanai Github vietnē.
