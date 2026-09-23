@@ -14,3 +14,11 @@ uzdevumi:
 -sveiciens.py
 dati:
 noslepums.txt
+
+# Programmēšana - pamatkurss
+Autors: **Edgars Mukāns**
+## Kā palaist
+1. Atvērt / lejupielādēt uzdevumi/diena1.py failu.
+2. Palaist lejupielādēto failu.
+## Licence
+MIT licence sniedz iespēju lietotājam brīvi rīkoties ar programmatūras saturu, vienlaikus noņemot atbildību no izstrādātāja.
