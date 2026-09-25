@@ -12,3 +12,4 @@ Lai palaistu programmu ir nepieciešams uzspiest "run" pogu koda failam augšēj
 
 ## Secinājums
  Visgrūtākais bija saprast, kur novietot failu "piezimes.txt", jo nebija prezīzas norādes.
+ Ikvienai Commit ziņai ir jābūt skaidrai, vēlāms tai sākties ar darbības vārdu, lai vieglāk saprastu darba gaitu.
