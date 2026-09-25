@@ -6,3 +6,5 @@ noslepums.txt
 
 # Ignorēt veselu mapi:
 __pycache__/
+
+piezimes.txt
